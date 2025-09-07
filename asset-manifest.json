@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pro_portfolio/static/css/main.e713231b.css",
-    "main.js": "/pro_portfolio/static/js/main.c36c9512.js",
+    "main.css": "/pro_portfolio/static/css/main.b2e6736c.css",
+    "main.js": "/pro_portfolio/static/js/main.3cfab95f.js",
     "static/js/453.ade52ca2.chunk.js": "/pro_portfolio/static/js/453.ade52ca2.chunk.js",
     "static/media/carteen1.png": "/pro_portfolio/static/media/carteen1.f9b52c2961d1d09a5bc5.png",
     "static/media/carteen2.png": "/pro_portfolio/static/media/carteen2.0b6b7472f7e365525eb6.png",
@@ -28,12 +28,12 @@
     "static/media/data_an.jpg": "/pro_portfolio/static/media/data_an.6c28ad333ff0bee7c889.jpg",
     "static/media/Cisco-logo.png": "/pro_portfolio/static/media/Cisco-logo.effd9e43245ecfdd85bb.png",
     "index.html": "/pro_portfolio/index.html",
-    "main.e713231b.css.map": "/pro_portfolio/static/css/main.e713231b.css.map",
-    "main.c36c9512.js.map": "/pro_portfolio/static/js/main.c36c9512.js.map",
+    "main.b2e6736c.css.map": "/pro_portfolio/static/css/main.b2e6736c.css.map",
+    "main.3cfab95f.js.map": "/pro_portfolio/static/js/main.3cfab95f.js.map",
     "453.ade52ca2.chunk.js.map": "/pro_portfolio/static/js/453.ade52ca2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e713231b.css",
-    "static/js/main.c36c9512.js"
+    "static/css/main.b2e6736c.css",
+    "static/js/main.3cfab95f.js"
   ]
 }
