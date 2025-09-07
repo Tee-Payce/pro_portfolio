@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/pro_portfolio/static/css/main.139786ec.css",
-    "main.js": "/pro_portfolio/static/js/main.28cf2097.js",
+    "main.css": "/pro_portfolio/static/css/main.e713231b.css",
+    "main.js": "/pro_portfolio/static/js/main.c36c9512.js",
     "static/js/453.ade52ca2.chunk.js": "/pro_portfolio/static/js/453.ade52ca2.chunk.js",
     "static/media/carteen1.png": "/pro_portfolio/static/media/carteen1.f9b52c2961d1d09a5bc5.png",
     "static/media/carteen2.png": "/pro_portfolio/static/media/carteen2.0b6b7472f7e365525eb6.png",
     "static/media/carteen8.png": "/pro_portfolio/static/media/carteen8.813a58bead73ea478bfe.png",
-    "static/media/sizibapatrick_cv.pdf": "/pro_portfolio/static/media/sizibapatrick_cv.178bc2ed1f7bd744db5f.pdf",
+    "static/media/sizibapatrick_cv.pdf": "/pro_portfolio/static/media/sizibapatrick_cv.3d087a9c1e8a2a38afb5.pdf",
     "static/media/aers5.png": "/pro_portfolio/static/media/aers5.f55065fe109bcf58bf13.png",
     "static/media/aers3.png": "/pro_portfolio/static/media/aers3.9f192f9036e6afa76c4e.png",
     "static/media/aers2.png": "/pro_portfolio/static/media/aers2.6d4e7d923f9dc5f22e05.png",
@@ -28,12 +28,12 @@
     "static/media/data_an.jpg": "/pro_portfolio/static/media/data_an.6c28ad333ff0bee7c889.jpg",
     "static/media/Cisco-logo.png": "/pro_portfolio/static/media/Cisco-logo.effd9e43245ecfdd85bb.png",
     "index.html": "/pro_portfolio/index.html",
-    "main.139786ec.css.map": "/pro_portfolio/static/css/main.139786ec.css.map",
-    "main.28cf2097.js.map": "/pro_portfolio/static/js/main.28cf2097.js.map",
+    "main.e713231b.css.map": "/pro_portfolio/static/css/main.e713231b.css.map",
+    "main.c36c9512.js.map": "/pro_portfolio/static/js/main.c36c9512.js.map",
     "453.ade52ca2.chunk.js.map": "/pro_portfolio/static/js/453.ade52ca2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.139786ec.css",
-    "static/js/main.28cf2097.js"
+    "static/css/main.e713231b.css",
+    "static/js/main.c36c9512.js"
   ]
 }
