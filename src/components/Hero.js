@@ -65,7 +65,7 @@ const Hero = () => {
   return (
     <div className="min-h-screen flex flex-col items-center text-center px-6 py-12">
       <motion.h2
-        className="text-5xl font-extrabold mb-4"
+        className="text-5xl font-extrabold mb-4 mt-5"
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
