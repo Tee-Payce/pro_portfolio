@@ -3,7 +3,7 @@ import { Moon, Sun } from "lucide-react";
 
 const Navbar = ({ darkMode, setDarkMode }) => {
   return (
-    <nav className="fixed top-0 left-0 w-full backdrop-blur-md bg-white/70 dark:bg-gray-800/70 shadow-md z-50">
+    <nav className="fixed top-0 left-0 w-full backdrop-blur-md bg-white/70 dark:bg-gray-800/70 shadow-md z-50 mb-5">
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
         <h1 className="text-xl font-bold">Siziba Patrick Portfolio</h1>
         <ul className="flex space-x-6">
